@@ -1,14 +1,7 @@
-/*margin: top right bottom left;*/
-.nextBtn{    
-  margin-left: 52%;
-}
-.prevBtn, .nextBtn{    
-  margin: 1rem 0 1rem 0; 
-  display: inline-block;   
-}
-*{
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  border: 1px solid gray;
-}
+.FullName {
+
+  border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+  }
+  
